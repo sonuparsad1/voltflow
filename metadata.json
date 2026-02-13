@@ -1,0 +1,5 @@
+{
+  "name": "VoltFlow - EV Station OS",
+  "description": "A modern, glassmorphism-styled SaaS dashboard for managing EV charging stations with real-time analytics, simulation, and revenue tracking.",
+  "requestFramePermissions": []
+}
